@@ -1,5 +1,8 @@
 This is just a cloned copy of the original (no changes done)
 
+A blog post talking about this is here: https://jakevdp.github.io/blog/2014/06/10/is-seattle-really-seeing-an-uptick-in-cycling/
+(Thanks to Jon Reades for pointing me to this resource).
+
 Cycling Trends in Seattle
 -------------------------
 
